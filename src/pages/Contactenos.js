@@ -21,7 +21,7 @@ const Contactenos = () => {
                 <Form>
                     <Form.Row>
                         <Form.Group as={Col} controlId="formGridEmail">
-                            <Form.Label>Email</Form.Label>
+                            <Form.Label>Correo</Form.Label>
                             <Form.Control type="email" placeholder="Enter email" />
                         </Form.Group>
 

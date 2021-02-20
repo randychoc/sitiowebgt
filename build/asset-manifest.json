@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4bbd498.chunk.css",
+    "main.js": "/static/js/main.e6790a41.chunk.js",
+    "main.js.map": "/static/js/main.e6790a41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.600a7b0f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.600a7b0f.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.89cdff2a.chunk.js": "/static/js/2.89cdff2a.chunk.js",
+    "static/js/2.89cdff2a.chunk.js.map": "/static/js/2.89cdff2a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e4bbd498.chunk.css.map": "/static/css/main.e4bbd498.chunk.css.map",
+    "static/js/2.89cdff2a.chunk.js.LICENSE.txt": "/static/js/2.89cdff2a.chunk.js.LICENSE.txt",
+    "static/media/Inicio.css": "/static/media/backred.ded49bd1.png",
+    "static/media/Servicios.css": "/static/media/backwhite.ca0c6ec3.jpg",
+    "static/media/catalogo.1fa0bbeb.png": "/static/media/catalogo.1fa0bbeb.png",
+    "static/media/contactenos.a62c45d4.png": "/static/media/contactenos.a62c45d4.png",
+    "static/media/desarrolloweb.20c86249.jpg": "/static/media/desarrolloweb.20c86249.jpg",
+    "static/media/funcional.b26c6fcb.png": "/static/media/funcional.b26c6fcb.png",
+    "static/media/moderno.c7aba868.png": "/static/media/moderno.c7aba868.png",
+    "static/media/renovacion.7d486ff3.png": "/static/media/renovacion.7d486ff3.png",
+    "static/media/servicios.58789b82.png": "/static/media/servicios.58789b82.png",
+    "static/media/sitioweb.a50a1703.png": "/static/media/sitioweb.a50a1703.png",
+    "static/media/www.2fe432d4.png": "/static/media/www.2fe432d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600a7b0f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.89cdff2a.chunk.js",
+    "static/css/main.e4bbd498.chunk.css",
+    "static/js/main.e6790a41.chunk.js"
+  ]
+}
