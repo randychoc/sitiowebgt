@@ -1,46 +1,40 @@
 /* configuración SlideInicio.js */
-.slide
-{   
-    display: block;
-    width: auto;
-    height: auto;
-    max-width: 1000px;
-    max-height: 520px;        
-    margin-left: auto;
-    margin-right: auto;
+.slide {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 1000px;
+  max-height: 520px;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* configuración Inicio.js */
-.imag
-{
-    display:block;    
-    background-color: #ffffff;
-    width: 110px;       
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
+.imag {
+  display: block;
+  background-color: #ffffff;
+  width: 110px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
-.tarjeta
-{
-    background-color: transparent;
-    color: #ffffff;    
-    padding: 10px;
-    width: auto;
-    height: auto;    
+.tarjeta {
+  background-color: transparent;
+  color: #ffffff;
+  padding: 10px;
+  width: auto;
+  height: auto;
 }
-.back
-{
-    background-image: url('../../img/backred.png');  
-    background-color: #ffffff;  
-    background-size: 100% 100%;
-    padding: 20px;    
+.back {
+  background-image: url("../../img/backred.png");
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  padding: 20px;
 }
-h2
-{
-    text-align: center; 
-    color: #ffffff;  
+h2 {
+  text-align: center;
+  color: #ffffff;
 }
-.centrarV
-{
-    margin-top: auto;
-    margin-bottom: auto;
+.centrarV {
+  margin-top: auto;
+  margin-bottom: auto;
 }

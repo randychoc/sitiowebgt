@@ -1,13 +1,13 @@
-import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
-import '../components/styles/WhatsApp.css'
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../components/styles/WhatsApp.css";
 // import MessengerCustomerChat from 'react-messenger-customer-chat'
-import IcoWhatsApp from '../img/contacto/whatsapp.png'
+import IcoWhatsApp from "../img/contacto/whatsapp.png";
 
 const WhatsApp = () => (
+  <div>
     <div>
-        <div>
-            {/* <MessengerCustomerChat
+      {/* <MessengerCustomerChat
                 pageId="115025896958107"
                 appId="331794801166197"
                 language='es_LA'
@@ -17,19 +17,16 @@ const WhatsApp = () => (
                 greeting_dialog_delay={10}
                 // allow_login="true"                       
             />             */}
-        </div>
-        <div className="floatwa">
-            <a href="https://api.whatsapp.com/send?phone=+50247707384&text=Hola%20SitioWebGt.com%20deseo%20contratar%20sus%20servicios."
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                <img
-                    src={IcoWhatsApp}
-                    className="icoRed rounded"
-                    alt="WhatsApp"
-                />
-            </a>
-        </div>
     </div>
-)
-export default WhatsApp
+    <div className="floatwa">
+      <a
+        href="https://api.whatsapp.com/send?phone=+50247707384&text=Hola%20SitioWebGt.com%20deseo%20contratar%20sus%20servicios."
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src={IcoWhatsApp} className="icoRed rounded" alt="WhatsApp" />
+      </a>
+    </div>
+  </div>
+);
+export default WhatsApp;

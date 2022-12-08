@@ -1,20 +1,15 @@
-.arrowColor
-{
-    background-color: #ffffff;
+.arrowColor {
+  background-color: #ffffff;
 }
-.letraWhite
-{
-    color: #fff;
+.letraWhite {
+  color: #fff;
 }
-.letraBlack
-{
-    color: #000;
+.letraBlack {
+  color: #000;
 }
-a img
-{   
-    margin-right: 15px;  
+a img {
+  margin-right: 15px;
 }
-a:hover
-{
-    color: #000;
+a:hover {
+  color: #000;
 }
