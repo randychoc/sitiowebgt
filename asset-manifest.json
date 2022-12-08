@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/sitiowebgt/static/css/main.279e4dc9.chunk.css",
+    "main.js": "/sitiowebgt/static/js/main.edab9036.chunk.js",
+    "main.js.map": "/sitiowebgt/static/js/main.edab9036.chunk.js.map",
+    "runtime-main.js": "/sitiowebgt/static/js/runtime-main.ed000af0.js",
+    "runtime-main.js.map": "/sitiowebgt/static/js/runtime-main.ed000af0.js.map",
+    "static/css/2.c4e73993.chunk.css": "/sitiowebgt/static/css/2.c4e73993.chunk.css",
+    "static/js/2.4f2e40da.chunk.js": "/sitiowebgt/static/js/2.4f2e40da.chunk.js",
+    "static/js/2.4f2e40da.chunk.js.map": "/sitiowebgt/static/js/2.4f2e40da.chunk.js.map",
+    "index.html": "/sitiowebgt/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/sitiowebgt/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.279e4dc9.chunk.css.map": "/sitiowebgt/static/css/main.279e4dc9.chunk.css.map",
+    "static/js/2.4f2e40da.chunk.js.LICENSE.txt": "/sitiowebgt/static/js/2.4f2e40da.chunk.js.LICENSE.txt",
+    "static/media/Inicio.css": "/sitiowebgt/static/media/backred.ded49bd1.png",
+    "static/media/Servicios.css": "/sitiowebgt/static/media/backwhite.ca0c6ec3.jpg",
+    "static/media/catalogo.1fa0bbeb.png": "/sitiowebgt/static/media/catalogo.1fa0bbeb.png",
+    "static/media/contactenos.a62c45d4.png": "/sitiowebgt/static/media/contactenos.a62c45d4.png",
+    "static/media/desarrolloweb.20c86249.jpg": "/sitiowebgt/static/media/desarrolloweb.20c86249.jpg",
+    "static/media/funcional.b26c6fcb.png": "/sitiowebgt/static/media/funcional.b26c6fcb.png",
+    "static/media/github.4da5e4a9.svg": "/sitiowebgt/static/media/github.4da5e4a9.svg",
+    "static/media/gmail.9a30fe9b.svg": "/sitiowebgt/static/media/gmail.9a30fe9b.svg",
+    "static/media/linkedin.7defd339.svg": "/sitiowebgt/static/media/linkedin.7defd339.svg",
+    "static/media/location.1a39107f.svg": "/sitiowebgt/static/media/location.1a39107f.svg",
+    "static/media/moderno.c7aba868.png": "/sitiowebgt/static/media/moderno.c7aba868.png",
+    "static/media/renovacion.7d486ff3.png": "/sitiowebgt/static/media/renovacion.7d486ff3.png",
+    "static/media/servicios.58789b82.png": "/sitiowebgt/static/media/servicios.58789b82.png",
+    "static/media/sitioweb.a50a1703.png": "/sitiowebgt/static/media/sitioweb.a50a1703.png",
+    "static/media/www.2fe432d4.png": "/sitiowebgt/static/media/www.2fe432d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed000af0.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.4f2e40da.chunk.js",
+    "static/css/main.279e4dc9.chunk.css",
+    "static/js/main.edab9036.chunk.js"
+  ]
+}
