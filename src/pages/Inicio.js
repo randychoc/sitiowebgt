@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import WhatsApp from "../components/WhatsApp";
 import "../components/styles/Inicio.css";
 import { Image, Row, Col } from "react-bootstrap";
 import DesaWeb from "../img/inicio/desarrolloweb.jpg";

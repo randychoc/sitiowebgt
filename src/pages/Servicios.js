@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import WhatsApp from "../components/WhatsApp";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../components/styles/Servicios.css";
 import { Card } from "react-bootstrap";

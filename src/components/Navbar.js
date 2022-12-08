@@ -7,7 +7,6 @@ import InicioI from "../img/navbar/inicio.png";
 import ServiciosI from "../img/navbar/servicios.png";
 import CatalogoI from "../img/navbar/catalogo.png";
 import ContactenosI from "../img/navbar/contactenos.png";
-import WhatsAppI from "../img/contacto/whatsapp.png";
 
 const NavbarD = () => (
   <Navbar fixed="top" bg="light" variant="light" expand="md">
